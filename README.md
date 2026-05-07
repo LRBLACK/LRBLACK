@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I’m Roy Black 👋
 
-<!--
-**LRBLACK/LRBLACK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **WorkstationPDF** — privacy-first PDF tools that run in your browser.
 
-Here are some ideas to get you started:
+## What I’m working on
+- PDF redaction, merge, split, fill, and password tools
+- Fast in-browser workflows (no unnecessary uploads)
+- Reliable UX for real document work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+- 🔗 [WorkstationPDF](https://workstationpdf.com)
+
+## Tech stack
+Next.js, TypeScript, Firebase, Stripe, PDF.js, pdf-lib
+
+---
+Always shipping. Always improving.
