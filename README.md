@@ -1,6 +1,6 @@
 # Hey, I’m Roy Black 👋
 
-Building **WorkstationPDF** — privacy-first PDF tools that run in your browser.
+Building **WorkstationPDF** privacy-first PDF tools that run in your browser.
 
 ## What I’m working on
 - PDF redaction, merge, split, fill, and password tools
