@@ -1,6 +1,6 @@
 # Hey, I'm Roy Black 👋
 
-Building **Dixie Drive Go** — scheduled private rides in Southern Utah.
+Building **Dixie Drive Go** scheduled private rides in Southern Utah.
 
 ## What I'm working on
 - Rider booking flow (maps, quotes, card-on-file at booking)
