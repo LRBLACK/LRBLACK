@@ -1,17 +1,17 @@
-# Hey, I’m Roy Black 👋
+# Hey, I'm Roy Black 👋
 
-Building **WorkstationPDF** privacy-first PDF tools that run in your browser.
+Building **Dixie Drive Go** — scheduled private rides in Southern Utah.
 
-## What I’m working on
-- PDF redaction, merge, split, fill, and password tools
-- Fast in-browser workflows (no unnecessary uploads)
-- Reliable UX for real document work
+## What I'm working on
+- Rider booking flow (maps, quotes, card-on-file at booking)
+- Operator admin (dispatch, schedule, payments, booking emails)
+- Production Firebase + Stripe + Resend stack
 
 ## Current project
-- 🔗 [WorkstationPDF](https://workstationpdf.com)
+- 🚗 [Dixie Drive Go](https://dixiedrivego.com) · [Admin](https://dixiedrive-go.web.app/admin)
 
 ## Tech stack
-Next.js, TypeScript, Firebase, Stripe, PDF.js, pdf-lib
+React, TypeScript, Vite, Firebase, Stripe, Resend
 
 ---
 Always shipping. Always improving.
